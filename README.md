@@ -60,3 +60,6 @@ Dans la réalité, les valeurs de concentration des polluants atmosphériques ne
 - Carte géographique : localisation des villes suivies avec leurs niveaux de pollution, facilitant l'identification des zones critiques.
 - Série temporelle (année-mois) : permet d'observer l’évolution mensuelle des concentrations.
 - Tableau ville/polluant : synthèse des valeurs par polluant pour chaque ville.
+
+## Vue spécifique du Dioxyde d'azote (NO2) en 2024 en France 
+![image](https://github.com/user-attachments/assets/c3c55285-4d3e-4b1c-9e07-7bdc95556a85)
