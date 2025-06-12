@@ -61,3 +61,16 @@ Dans la réalité, les valeurs de concentration des polluants atmosphériques ne
 
 ## Vue spécifique du Dioxyde d'azote (NO2) en 2024 en France 
 ![image](https://github.com/user-attachments/assets/c3c55285-4d3e-4b1c-9e07-7bdc95556a85)
+
+| Indicateur                      | Valeur observée     | Interprétation                                                                                                     |
+| ------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Moyenne générale (NO₂)**      | **24,30 µg/m³**     | Juste en dessous du seuil OMS de 25 µg/m³, donc préoccupant à l’échelle nationale                                  |
+| **Valeur maximale enregistrée** | **94,00 µg/m³**     | Bien au-dessus du seuil OMS journalier                                                                             |
+| **Nbre de jours > seuil OMS**   | **10 jours sur 23** | Soit environ **43 % des jours mesurés** dépassent le seuil recommandé par l’OMS, ce qui est inquiétant             |
+| **Nbre total de jours mesurés** | **23 jours**        | Assez court pour une période d’analyse mensuelle ou ponctuelle                                                     |
+
+La carte montre une forte concentration de capteurs dans le sud et l’est de la France (notamment Rhône-Alpes, PACA, Occitanie, Grand Est).
+
+Cela peut indiquer une surveillance renforcée dans les zones urbaines ou industrielles.
+
+Certaines zones (centre et ouest de la France) semblent moins couvertes, ce qui peut biaiser la moyenne nationale. En effet, les stations sont souvent situées dans les villes ou zones industrielles, où la pollution est naturellement plus élevée (trafic, chauffage, activités industrielles). Et si ces zones sont surreprésentées, la moyenne nationale sera surestimée.
