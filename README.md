@@ -8,7 +8,7 @@ Ce rapport permet d'avoir :
 - Une base solide pour des actions ciblées en matière de prévention sanitaire et de politique environnementale.
 
 #### [Télécharger les données](https://github.com/Hines98/Suivi_des_polluants_air/blob/main/openaq.csv)
-#### [Télécharger le dashboard en format pbix](https://github.com/Hines98/Suivi_des_polluants_air_PBI/blob/main/Dashboard_polluants.pdf)
+#### [Télécharger le dashboard en format pbix](https://github.com/Hines98/Suivi_des_polluants_air_PBI/blob/main/Dashboard.pbix)
 
 ## Quelques notions
 Le tableau de bord se concentre sur les 6 polluants principaux reconnus par l’OMS et la directive européenne 2008/50/CE :
@@ -70,8 +70,4 @@ Dans la réalité, les valeurs de concentration des polluants atmosphériques ne
 | **Nbre de jours > seuil OMS**   | **10 jours sur 23** | Soit environ **43 % des jours mesurés** dépassent le seuil recommandé par l’OMS, ce qui est inquiétant             |
 | **Nbre total de jours mesurés** | **23 jours**        | Assez court pour une période d’analyse mensuelle ou ponctuelle                                                     |
 
-La carte montre une forte concentration de capteurs dans le sud et l’est de la France (notamment Rhône-Alpes, PACA, Occitanie, Grand Est).
-
-Cela peut indiquer une surveillance renforcée dans les zones urbaines ou industrielles.
-
-Certaines zones (centre et ouest de la France) semblent moins couvertes, ce qui peut biaiser la moyenne nationale. En effet, les stations sont souvent situées dans les villes ou zones industrielles, où la pollution est naturellement plus élevée (trafic, chauffage, activités industrielles). Et si ces zones sont surreprésentées, la moyenne nationale sera surestimée.
+La carte montre une forte concentration de capteurs dans le sud et l’est de la France (notamment Rhône-Alpes, PACA, Occitanie, Grand Est). Cela peut indiquer une surveillance renforcée dans les zones urbaines ou industrielles.
