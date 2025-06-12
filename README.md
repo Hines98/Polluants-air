@@ -38,7 +38,7 @@ Les ont été téléchargées sur le site [https://public.opendatasoft.com/explo
 ### 2. Traitement
 Dans power query :
 - les valeurs négatives (ex. : -1, -1000) ont été identifiées comme des erreurs de capteurs ou des valeurs manquantes et ont été exclues du calcul des moyennes et des visualisations.
-- certaines valeurs positives ont également été considérés comme aberrantes selon le polluant
+- certaines valeurs positives ont également été considérées comme aberrantes selon le polluant
   
 | **Polluant**   | **À considérer comme aberrant si…** | **Justification du seuil aberrant**                                             |
 | -------------- | ----------------------------------- | ------------------------------------------------------------------------------- |
