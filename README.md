@@ -8,7 +8,7 @@ Ce rapport permet d'avoir :
 - Une base solide pour des actions ciblées en matière de prévention sanitaire et de politique environnementale.
 
 #### [Télécharger les données](https://github.com/Hines98/Suivi_des_polluants_air/blob/main/openaq.csv)
-#### [Télécharger le dashboard en format pbix](https://github.com/Hines98/Suivi_des_polluants_air_PBI/blob/main/Dashboard.pbix)
+#### [Télécharger le dashboard en format pbix](https://github.com/Hines98/Suivi_des_polluants_air_PBI/blob/main/Report_Polluants_de_l'air.pbix)
 
 ## Quelques notions
 Le tableau de bord se concentre sur les 6 polluants principaux reconnus par l’OMS et la directive européenne 2008/50/CE :
