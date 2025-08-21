@@ -61,7 +61,7 @@ Dans la réalité, les valeurs de concentration des polluants atmosphériques ne
 - Tableau ville/polluant : synthèse des valeurs par polluant pour chaque ville.
 
 ## Vue spécifique du Dioxyde d'azote (NO2) en 2024 en France 
-<img width="1284" height="723" alt="image" src="https://github.com/user-attachments/assets/04171500-2437-48e3-af7f-b08393921463" />
+<img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/d16550d6-6034-4786-908a-20970c0d3ef2" />
 
 | Indicateur                      | Valeur observée     | Interprétation                                                                                                     |
 | ------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------ |
